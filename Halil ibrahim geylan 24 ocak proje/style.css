@@ -1,0 +1,91 @@
+.main{
+    width: 100%;
+    
+}
+.main .img{
+    height: 300px;
+}
+.icon .fa-brands{
+    font-size: 32px;
+    margin: 8px;
+}
+.icon .fa-brands:hover{
+   color: red;
+}
+.home-demo .item {
+    background: #3f49ff;
+}
+.home-demo h2 {
+    color: #FFF;
+    text-align: center;
+    padding: 5rem 0;
+    margin: 0;
+    font-style: italic;
+    font-weight: 300;
+    
+}
+
+.owl-prev, .owl-next{
+    display: flex;
+    position: absolute;
+    transform: scale(4) !important;
+}
+.owl-prev{
+    top: 70px;
+    left: 0;
+}
+.owl-next{
+    top: 70px;
+    right: 0;
+}
+.owl-prev:hover,.owl-next:hover{
+    background: rgb(194, 113, 113) !important;
+}
+/* Header */
+
+.logo{
+    margin-left: 50px;
+}
+.dropdawn-1{
+    position: static;
+    width: 100% !important;
+}
+.card-text{
+    padding-top:300px;
+    padding-left: 50px;
+    font-size: 3.5rem;
+}
+.alısveris{
+    margin-left: 100px;
+    border-radius: 50px;
+    background: #fff;
+}
+.icerik p{
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.col-5 .p18{
+    font-size: 31px;
+    font-size: 60px;
+}
+.col-5{
+    margin-left: 70px;
+}
+
+.col-5 .p2{
+    font-size:100p;
+}
+.btn-kesfet{
+    margin-left: 80px;
+    background: #292929;
+    padding: 10px 40px 10px 40px;
+    font-size: 20px;
+    border-radius: 30px;
+    color: #fff;
+}
+.btn-kesfet:hover{
+    background: #fff;
+    justify-content: center;
+    color: black;
+}
